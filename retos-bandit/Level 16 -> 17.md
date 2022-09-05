@@ -6,7 +6,7 @@ The credentials for the next level can be retrieved by submitting the password o
 ---
 ## Datos de acceso
 - user -> **bandit16**
-- Passwor -> cluFn7wTiGryunymYOu4RcffSxQluehd
+- Passwor -> JQttfApK4SeyHwDlI9SXGR50qclOAil1
 - host ->  **bandit.labs.overthewire.org**
 - port -> **2220**
 
@@ -144,7 +144,7 @@ Conenctarse con la llave privada y obtener contraseña.
 ```shell
 angel@angelMnt:~$ ssh -i /tmp/private_key bandit17@bandit.labs.overthewire.org -p 2220
 bandit17@bandit:~$ cat /etc/bandit_pass/bandit17
-xLYVMN9WE5zQ5vHacb0sZEVqbrp7nBTn
+VwOSWtCA7lRKkTfbr2IDh6awj9RNZM5e
 bandit17@bandit:~$ 
 ```
 

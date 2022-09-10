@@ -6,7 +6,7 @@ A program is running automatically at regular intervals from **cron**, the time-
 ---
 ## Datos de acceso
 - user -> **bandit21**
-- Passwor -> NvEJF7oVjkddltPSrdKEFOllh9V1IBcq
+- Passwor -> WdDozAdTM2z9DiFEQ2mGlwngMfj4EZff
 - host ->  **bandit.labs.overthewire.org**
 - port -> **2220**
 

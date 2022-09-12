@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "retos-bandit/Level 26 -> 27.md",
+            "file": "PicoCTF/PicoCTF2019/GeneralSkill/plumbing.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "-do",
+                "query": "etc",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "retos-bandit/Level 26 -> 27.md",
+                "file": "PicoCTF/PicoCTF2019/GeneralSkill/plumbing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "retos-bandit/Level 26 -> 27.md",
+                "file": "PicoCTF/PicoCTF2019/GeneralSkill/plumbing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "retos-bandit/Level 26 -> 27.md"
+                "file": "PicoCTF/PicoCTF2019/GeneralSkill/plumbing.md"
               }
             }
           }
@@ -130,15 +130,15 @@
   },
   "active": "1393c9303b17e556",
   "lastOpenFiles": [
-    "retos-bandit/Level 25 -> 26.md",
-    "retos-bandit/Level 26 -> 27.md",
-    "retos-bandit/bandit.md",
-    "retos-bandit/Level 19 -> 20.md",
-    "retos-bandit/Level 20 -> 21.md",
-    "retos-bandit/Level 17 -> 18.md",
-    "retos-bandit/Level 21 -> 22.md",
-    "retos-bandit/Level 13 -> 14.md",
-    "retos-bandit/Level 10 -> 11.md",
-    "retos-bandit/Level 4 -> 5.md"
+    "PicoCTF/PicoCTF2019/GeneralSkill/what's a net cat?.md",
+    "PicoCTF/PicoCTF2019/GeneralSkill/Warmed Up.md",
+    "PicoCTF/PicoCTF2019/GeneralSkill/strings it.md",
+    "PicoCTF/PicoCTF2019/GeneralSkill/First Grep.md",
+    "PicoCTF/PicoCTF2019/GeneralSkill/Bases.md",
+    "PicoCTF/PicoCTF2019/GeneralSkill/Based.md",
+    "PicoCTF/PicoCTF2019/GeneralSkill/2Warm.md",
+    "PicoCTF/PicoCTF2019/GeneralSkill/plumbing.md",
+    "PicoCTF/PicoCTF2019/GeneralSkill/Lets Warm Up.md",
+    "PicoCTF/Formato.md"
   ]
 }

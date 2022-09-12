@@ -7,12 +7,8 @@
         "id": "1393c9303b17e556",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "PicoCTF/PicoCTF2019/GeneralSkill/plumbing.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -77,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PicoCTF/PicoCTF2019/GeneralSkill/plumbing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PicoCTF/PicoCTF2019/GeneralSkill/plumbing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "PicoCTF/PicoCTF2019/GeneralSkill/plumbing.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -130,15 +122,15 @@
   },
   "active": "1393c9303b17e556",
   "lastOpenFiles": [
-    "PicoCTF/PicoCTF2019/GeneralSkill/what's a net cat?.md",
-    "PicoCTF/PicoCTF2019/GeneralSkill/Warmed Up.md",
-    "PicoCTF/PicoCTF2019/GeneralSkill/strings it.md",
-    "PicoCTF/PicoCTF2019/GeneralSkill/First Grep.md",
-    "PicoCTF/PicoCTF2019/GeneralSkill/Bases.md",
-    "PicoCTF/PicoCTF2019/GeneralSkill/Based.md",
-    "PicoCTF/PicoCTF2019/GeneralSkill/2Warm.md",
-    "PicoCTF/PicoCTF2019/GeneralSkill/plumbing.md",
-    "PicoCTF/PicoCTF2019/GeneralSkill/Lets Warm Up.md",
-    "PicoCTF/Formato.md"
+    "PicoCTF/PicoCTF2022/PW Crack 2.md",
+    "PicoCTF/PicoCTF2022/PW Crack 3.md",
+    "PicoCTF/PicoCTF2022/HashingJobApp.md",
+    "PicoCTF/PicoCTF2022/Glitch Cat.md",
+    "PicoCTF/PicoCTF2022/fixme2.py.md",
+    "PicoCTF/PicoCTF2022/fixme1.py.md",
+    "PicoCTF/PicoCTF2022/Codebook.md",
+    "PicoCTF/PicoCTF2022/convertme.py.md",
+    "PicoCTF/Formato.md",
+    "PicoCTF/PicoCTF2022/PW Crack 1.md"
   ]
 }

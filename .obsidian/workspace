@@ -7,8 +7,12 @@
         "id": "1393c9303b17e556",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "PicoCTF/PicoCTF2019/Web/Client-side-again.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -36,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "etc",
+                "query": "find",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "PicoCTF/PicoCTF2019/Web/Client-side-again.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "PicoCTF/PicoCTF2019/Web/Client-side-again.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +116,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "PicoCTF/PicoCTF2019/Web/Client-side-again.md"
+              }
             }
           }
         ]
@@ -122,15 +130,15 @@
   },
   "active": "1393c9303b17e556",
   "lastOpenFiles": [
-    "PicoCTF/PicoCTF2022/PW Crack 2.md",
-    "PicoCTF/PicoCTF2022/PW Crack 3.md",
-    "PicoCTF/PicoCTF2022/HashingJobApp.md",
-    "PicoCTF/PicoCTF2022/Glitch Cat.md",
-    "PicoCTF/PicoCTF2022/fixme2.py.md",
-    "PicoCTF/PicoCTF2022/fixme1.py.md",
-    "PicoCTF/PicoCTF2022/Codebook.md",
-    "PicoCTF/PicoCTF2022/convertme.py.md",
+    "PicoCTF/PicoCTF2019/Web/picobrowser.md",
+    "PicoCTF/PicoCTF2019/Web/where are the robots.md",
     "PicoCTF/Formato.md",
-    "PicoCTF/PicoCTF2022/PW Crack 1.md"
+    "PicoCTF/PicoCTF2019/Web/Client-side-again.md",
+    "PicoCTF/PicoCTF2019/Web/dont-use-client-side.md",
+    "PicoCTF/PicoCTF2019/Web/logon.md",
+    "PicoCTF/PicoCTF2019/Web/Insp3ct0r.md",
+    "PicoCTF/PicoCTF2019/Web.md",
+    "retos-bandit/Level 6 -> 7.md",
+    "retos-bandit/Level 16 -> 17.md"
   ]
 }

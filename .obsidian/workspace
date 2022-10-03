@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "PicoCTF/PicoCTF2019/Web/JaWT Scratchpad.md",
+            "file": "PicoCTF/PicoCTF2021/WebExploitation/GET aHEAD.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "find",
+                "query": "robots",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PicoCTF/PicoCTF2019/Web/JaWT Scratchpad.md",
+                "file": "PicoCTF/PicoCTF2021/WebExploitation/GET aHEAD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PicoCTF/PicoCTF2019/Web/JaWT Scratchpad.md",
+                "file": "PicoCTF/PicoCTF2021/WebExploitation/GET aHEAD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PicoCTF/PicoCTF2019/Web/JaWT Scratchpad.md"
+                "file": "PicoCTF/PicoCTF2021/WebExploitation/GET aHEAD.md"
               }
             }
           }
@@ -130,15 +130,15 @@
   },
   "active": "1393c9303b17e556",
   "lastOpenFiles": [
+    "PicoCTF/PicoCTF2021/WebExploitation/Cookies.md",
+    "PicoCTF/PicoCTF2021/WebExploitation/Scavenger Hunt.md",
+    "PicoCTF/PicoCTF2021/WebExploitation/GET aHEAD.md",
+    "PicoCTF/Formato.md",
+    "PicoCTF/PicoCTF2019/Web/JaWT Scratchpad.md",
     "PicoCTF/PicoCTF2019/Web/Irish-Name-Repo 3.md",
     "PicoCTF/PicoCTF2019/Web/Irish-Name-Repo 2.md",
     "PicoCTF/PicoCTF2019/Web/Irish-Name-Repo 1.md",
     "PicoCTF/PicoCTF2021/GeneralSkills/Tab, Tab, Attack.md",
-    "PicoCTF/PicoCTF2021/GeneralSkills/Wave a flag.md",
-    "PicoCTF/PicoCTF2021/GeneralSkills/Nice netcat.md",
-    "PicoCTF/PicoCTF2019/Web/JaWT Scratchpad.md",
-    "PicoCTF/Formato.md",
-    "PicoCTF/PicoCTF2019/Web/logon.md",
-    "PicoCTF/PicoCTF2019/Web/picobrowser.md"
+    "PicoCTF/PicoCTF2021/GeneralSkills/Wave a flag.md"
   ]
 }

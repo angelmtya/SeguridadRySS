@@ -1,0 +1,49 @@
+# information
+
+---
+## Objectivo
+Files can always be changed in a secret way. Can you find the flag? [cat.jpg](https://mercury.picoctf.net/static/149ab4b27d16922142a1e8381677d76f/cat.jpg)
+
+
+---
+## Solución
+
+``` sh
+angel@angelMnt:~/Documentos/ClasesUAZ/SRYS/descargablesCTF/picoCTF2021/Forensics$ exiftool cat.jpg 
+ExifTool Version Number         : 11.88
+File Name                       : cat.jpg
+Directory                       : .
+File Size                       : 858 kB
+File Modification Date/Time     : 2022:03:25 20:49:15-06:00
+File Access Date/Time           : 2022:03:25 20:50:31-06:00
+File Inode Change Date/Time     : 2022:03:25 20:49:33-06:00
+File Permissions                : rw-rw-r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+JFIF Version                    : 1.02
+Resolution Unit                 : None
+X Resolution                    : 1
+Y Resolution                    : 1
+Current IPTC Digest             : 7a78f3d9cfb1ce42ab5a3aa30573d617
+Copyright Notice                : PicoCTF
+Application Record Version      : 4
+XMP Toolkit                     : Image::ExifTool 10.80
+License            
+
+angel@angelMnt:~/Documentos/ClasesUAZ/SRYS/descargablesCTF/picoCTF2021/Forensics$ echo cGljb0NURnt0aGVfbTN0YWRhdGFfMXNfbW9kaWZpZWR9 | base64 -d
+picoCTF{the_m3tadata_1s_modified}
+```
+
+---
+## Notas adicionales
+
+### Comando linux
+**exiftool**
+Es una librería Perl on una completa implementación de línea de comandos para leer, escribir y manipular los metadatos a través de una amplia gama de archivos, particularmente las **imágenes JPEG**.
+
+
+---
+## Referencias
+
+https://esgeeks.com/exiftool-extraer-metadatos-archivos/

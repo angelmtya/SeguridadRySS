@@ -4,7 +4,6 @@
 ## Objectivo
 
 
-
 ---
 ## Solución
 ``` bash
